@@ -1,7 +1,3 @@
-Got it ✅ — here’s a **clean, beginner-friendly README.md** draft for your project:
-
----
-
 # MNIST GAN and Classifier Study
 
 ## 📌 Project Overview
